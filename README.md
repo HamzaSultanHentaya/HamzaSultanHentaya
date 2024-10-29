@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Hamza Hentaya
-- 👀 I’m interested in Software development.
+# HamzaSultanHentaya
+## Project Notes
