@@ -1,4 +1,4 @@
-# My First Project
+# Git_Course
 without # 
 ## Project Notes
 # test
